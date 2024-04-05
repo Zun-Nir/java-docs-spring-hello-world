@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello World, from CQUni";
+		return "Hello World, from CQUni. My name is Nirob";
 	}
 }
